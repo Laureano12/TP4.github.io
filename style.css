@@ -1,0 +1,23 @@
+body{
+    background-image: url(img/public.avif);
+    background-size: cover;
+    text-align: center;
+    font-size: 1rem;
+}
+input{
+ background-image: url(img/gg.jpg);
+ width: 30%;
+ height: 5rem;
+ border-radius: 20px;
+text-align: center;
+font-size: 3rem;
+margin: 1rem;
+color: rgb(255, 9, 9);
+}
+
+input:focus{
+    box-shadow: rgb(106, 0, 219) 0px 0px 0px 3px, rgb(255, 0, 0) 0px 0px 0px 6px, rgb(8, 8, 6) 0px 0px 0px 9px, rgb(255, 106, 0) 0px 0px 0px 12px, rgb(255, 0, 212) 0px 0px 0px 15px;
+}
+
+
+
